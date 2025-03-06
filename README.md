@@ -42,7 +42,7 @@ This project was developed as part of **Honeywell Phase V "Women Empowerment" on
    ```
 2. **Open the Power BI File**  
    - Download and install [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)  
-   - Open `Healthcare Analytics.pbix`  
+   - Open `Hospital Analytics.pbix`  
 
 3. **Connect to the Dataset**  
    - For static analysis, use the provided `dataset` folder.  
