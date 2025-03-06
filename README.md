@@ -33,13 +33,6 @@ This project was developed as part of **Honeywell Phase V "Women Empowerment" on
 
 ---
 
-## 📷 **Screenshots**  
-
-### 📌 **Dashboard Overview**  
-![Dashboard Screenshot](https://imgur.com/jpZ2hoH)  
-
----
-
 ## 📥 **Installation & Setup**  
 
 1. **Clone the repository**  
